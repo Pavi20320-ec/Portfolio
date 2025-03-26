@@ -10,9 +10,8 @@ I'm **Pavithra K**, a passionate **Full Stack Developer** specializing in **Java
 - 📄 **Resume:** Downloadable PDF version of my resume, highlighting my education, technical skills, and professional experience.  
 
 ✨ **Technologies Used:**  
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** Java, Spring Boot, MySQL  
-- **Tools:** Eclipse, VS Code, Postman  
+- **Front-end:** HTML, CSS, JavaScript
+- **Tools:** VS Code. 
 
 🔗 **Check it out live:** [Pavithra's Portfolio](https://pavithra-32e2ee.netlify.app/)  
 ⭐️ Feel free to explore, provide feedback, and connect with me on **[LinkedIn](https://www.linkedin.com/in/pavithra-kaliyamoorthy-583846207/)** or **[GitHub](https://github.com/Pavi20320-ec)**!
