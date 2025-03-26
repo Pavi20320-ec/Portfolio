@@ -1,4 +1,4 @@
-### 🌐 **Pavithra K – Full Stack Developer Portfolio**
+### 🌐 **Pavithra K – Portfolio**
 
 🚀 **Welcome to my portfolio!**  
 I'm **Pavithra K**, a passionate **Full Stack Developer** specializing in **Java backend development** with expertise in **Spring Boot, MySQL, and RESTful APIs**, along with front-end skills in **HTML, CSS, and JavaScript**.  
